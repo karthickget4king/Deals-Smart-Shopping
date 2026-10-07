@@ -1,0 +1,8 @@
+{
+  "name": "Deals Smart Shopping",
+  "description": "Smart Deals. Better Prices. Smarter Shopping. Discover Amazon deals, top discounts, curated affiliate finds, and price drops with real-time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
